@@ -1,4 +1,7 @@
 # hfs MacOS Standard Discs
+
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
 Enables legacy hfs MacOS Standard Disks to be read on mac OS 10.15 Catalina
 
 hfs standard discs (pre HFS+)
